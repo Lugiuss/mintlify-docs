@@ -1,5 +1,5 @@
 {
-  "theme": "aspen",
+  "theme": "palm",
   "$schema": "https://mintlify.com/docs.json",
   "name": "FlowMC",
   "description": "Offizielle FlowMC Dokumentation",
@@ -12,7 +12,7 @@
   "favicon": "/images/FlowMC_-_Logo_Transparent.png",
   "background": {
     "image": "/",
-    "decoration": "windows"
+    "decoration": "gradient"
   },
   "navbar": {
     "links": [],
