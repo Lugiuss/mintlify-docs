@@ -65,7 +65,9 @@
           {
             "group": "Regelwerke",
             "pages": [
-              "wiki/regelwerke/de"
+              "wiki/regelwerke/allgemeines-regelwerk",
+              "wiki/regelwerke/minecraft-regelwerk",
+              "wiki/regelwerke/discord-regelwerk"
             ]
           }
         ]
