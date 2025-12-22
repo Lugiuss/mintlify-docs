@@ -7,7 +7,10 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "logo": "/images/FlowMC_-_Logo_Transparent.png",
+  "logo": {
+    "light": "/images/FlowMC_Schriftzug_Transparent.png",
+    "dark": "/images/FlowMC_Schriftzug_Transparent.png"
+  },
   "favicon": {
     "light": "/images/FlowMC_-_Logo_Transparent.png",
     "dark": "/images/FlowMC_-_Logo_Transparent.png"
