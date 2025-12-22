@@ -4,9 +4,9 @@
   "name": "FlowMC",
   "description": "Offizielle FlowMC Dokumentation",
   "colors": {
-    "primary": "#ffffff",
-    "light": "#ffffff",
-    "dark": "#ffffff"
+    "primary": "#f76f1e",
+    "light": "#f76f1e",
+    "dark": "#f76f1e"
   },
   "logo": "/images/FlowMC_-_Logo_Transparent.png",
   "favicon": "/images/FlowMC_-_Logo_Transparent.png",
