@@ -2,6 +2,7 @@
   "theme": "aspen",
   "$schema": "https://mintlify.com/docs.json",
   "name": "FlowMC",
+  "description": "Offizielle FlowMC Dokumentation",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -9,6 +10,9 @@
   },
   "logo": "/images/FlowMC_-_Logo_Transparent.png",
   "favicon": "/images/FlowMC_-_Logo_Transparent.png",
+  "background": {
+    "image": "/"
+  },
   "navbar": {
     "links": [],
     "primary": {
@@ -25,7 +29,6 @@
           {
             "group": "Regelwerke",
             "pages": [
-              "wiki/regelwerke/allgemeines-regelwerk",
               "wiki/regelwerke/minecraft-regelwerk",
               "wiki/regelwerke/discord-regelwerk"
             ]
@@ -52,9 +55,5 @@
       "cursor",
       "vscode"
     ]
-  },
-  "background": {
-    "image": "/"
-  },
-  "description": "Offizielle FlowMC Dokumentation"
+  }
 }
