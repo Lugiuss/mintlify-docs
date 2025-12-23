@@ -39,6 +39,20 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Bewerben",
+        "groups": [
+          {
+            "group": "Anforderungen",
+            "pages": [
+              "bewerben/anforderungen/supporter",
+              "bewerben/anforderungen/builder",
+              "bewerben/anforderungen/content",
+              "bewerben/anforderungen/developer"
+            ]
+          }
+        ]
       }
     ]
   },
