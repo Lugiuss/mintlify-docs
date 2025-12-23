@@ -11,7 +11,8 @@
   "logo": "/images/FlowMC_-_Logo_Transparent.png",
   "favicon": "/images/FlowMC_-_Logo_Transparent.png",
   "background": {
-    "image": "/"
+    "image": "/",
+    "decoration": "gradient"
   },
   "navbar": {
     "links": [],
@@ -57,7 +58,7 @@
   },
   "appearance": {
     "default": "dark",
-    "strict": true
+    "strict": false
   },
   "styling": {
     "codeblocks": "dark"
