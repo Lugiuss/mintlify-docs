@@ -5,11 +5,15 @@
   "description": "Offizielle FlowMC Dokumentation",
   "colors": {
     "primary": "#f76f1e",
-    "light": "#FFFFFF",
-    "dark": "#000000"
+    "light": "#f76f1e",
+    "dark": "#f76f1e"
   },
   "logo": "/images/FlowMC_-_Logo_Transparent.png",
   "favicon": "/images/FlowMC_-_Logo_Transparent.png",
+  "appearance": {
+    "default": "dark",
+    "strict": false
+  },
   "background": {
     "image": "/",
     "decoration": "gradient"
@@ -44,6 +48,9 @@
       "website": "https://flowmc.de"
     }
   },
+  "styling": {
+    "codeblocks": "dark"
+  },
   "contextual": {
     "options": [
       "copy",
@@ -55,12 +62,5 @@
       "cursor",
       "vscode"
     ]
-  },
-  "appearance": {
-    "default": "dark",
-    "strict": false
-  },
-  "styling": {
-    "codeblocks": "dark"
   }
 }
