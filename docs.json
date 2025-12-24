@@ -57,9 +57,9 @@
       {
         "tab": "Partner-Programm",
         "pages": [
-          "partner-programm/werde-geschaeftspartner",
+          "creator-programm/werde-creator",
           "partner-programm/werde-sponsor",
-          "creator-programm/werde-creator"
+          "partner-programm/werde-geschaeftspartner"
         ]
       }
     ]
