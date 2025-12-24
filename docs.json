@@ -53,6 +53,12 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Creator-Programm",
+        "pages": [
+          "creator-programm/werde-creator"
+        ]
       }
     ]
   },
